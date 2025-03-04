@@ -2,7 +2,7 @@
 
 int main (void)
 {
-    std::cout << "Bonjour !" << std::endl;
+    std::cout << "Cartade Rémi" << std::endl;
     
     return 0;
 }
